@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="gallery_icon">Gallery</string>
+    <string name="map_icon">Map</string>
+</resources>
